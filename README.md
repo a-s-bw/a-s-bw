@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on software for flexible electromagnetic simulation of electrical machines
+- 🌱 I’m currently learning different methods how to implement analytic, numeric and hybrid electromagnetic simulation
+  
 <!--
 **a-s-bw/a-s-bw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
